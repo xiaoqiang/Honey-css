@@ -4,16 +4,17 @@
 
 ### css文件注释
     [css]
+    
     /**
-     *name: base.css;
-     *function: reset,base css,tools;
-     *creator: xiaoqiang;
-     *modify: none;
-     *update-time: 2011-07-11;
+     * @name: 样式文件名;
+     * @function: 功能介绍;
+     * @require: 依赖的样式;
+     * @author: 作者;
      **/
 
 ### css模块注释
     [css]
+    
     /* B mod-test */
     .mod-test { //基类
         display:block;
@@ -27,6 +28,7 @@
 
 ### html模块注释
     [html]
+    
     <!--B mod-test-->
     <div class="mod-test">
         <div class="inh-test-f12"></div>

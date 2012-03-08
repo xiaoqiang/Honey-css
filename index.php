@@ -3,7 +3,7 @@ ini_set("display_errors", "On");
 error_reporting(E_ALL);
 
 // config start
-$projectName = 'Honey';
+$projectName = 'Honey-css';
 // config end
 
 require 'vendor/markdown.php';

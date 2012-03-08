@@ -25,7 +25,8 @@
 * 结构上表现为.mod-{modName}的同元素的多个样式
 
 ### 代码示例
-    [css]：
+    [css]
+    
     /* B mod-test */
     .mod-test { //基类
         display:block;
@@ -40,12 +41,15 @@
         color: blue;
     }
     /* E mod-test */
-    [html]:
+    
+    [html]
+
     <!--B 继承实现-->
     <div class="mod-test">
         <div class="inh-test-f12"></div>
     </div>
-    <!--E 继承实现-->    
+    <!--E 继承实现-->
+      
     <!--B 多态实现-->
     <div class="mod-test pol-test-red"></div>    
     <div class="mod-test pol-test-blue"></div>

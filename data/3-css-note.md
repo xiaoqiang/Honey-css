@@ -3,6 +3,7 @@
 ## css注释规范
 
 ### css文件注释
+    [css]
     /**
      *name: base.css;
      *function: reset,base css,tools;
@@ -12,6 +13,7 @@
      **/
 
 ### css模块注释
+    [css]
     /* B mod-test */
     .mod-test { //基类
         display:block;
@@ -24,6 +26,7 @@
 ## html注释规范
 
 ### html模块注释
+    [html]
     <!--B mod-test-->
     <div class="mod-test">
         <div class="inh-test-f12"></div>

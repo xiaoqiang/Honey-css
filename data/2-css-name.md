@@ -45,8 +45,7 @@
     <div class="mod-test">
         <div class="inh-test-f12"></div>
     </div>
-    <!--E 继承实现-->
-    
+    <!--E 继承实现-->    
     <!--B 多态实现-->
     <div class="mod-test pol-test-red"></div>    
     <div class="mod-test pol-test-blue"></div>

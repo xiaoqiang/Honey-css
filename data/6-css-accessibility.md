@@ -1,6 +1,6 @@
 # 可访问性和无障碍访问
 
-* 了解[网站508规范(http://www.access-board.gov/sec508/guide/1194.22.htm)
+* 了解[网站508规范](http://www.access-board.gov/sec508/guide/1194.22.htm)
 * 使用了JS页面应该考虑用户关闭JS的情况，用noscript提示
 * 正确的焦点顺序，或者使用tabindex修复
 * 文字的title，图片的alt，适配读屏软件
